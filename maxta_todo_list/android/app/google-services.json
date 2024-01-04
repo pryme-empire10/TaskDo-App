@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993629565610",
+    "project_id": "maxta-todo-list",
+    "storage_bucket": "maxta-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993629565610:android:ccc73b627f93feb4d6d6d3",
+        "android_client_info": {
+          "package_name": "com.example.maxtatodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRX5CximZCbpkk_D4dggYnqagU2v_yoH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

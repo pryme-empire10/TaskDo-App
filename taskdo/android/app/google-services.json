@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706417460299",
+    "project_id": "taskdo-dbf91",
+    "storage_bucket": "taskdo-dbf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706417460299:android:42d5effe301bf32c75b9ce",
+        "android_client_info": {
+          "package_name": "com.example.taskdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DNjlTXyNXFLt0QJec_8YKVzNhJp8qOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
